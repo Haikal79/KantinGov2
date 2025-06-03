@@ -1,0 +1,14 @@
+{
+  "name": "kantingo",
+  "version": "1.0.0",
+  "description": "Simulasi penggunaan lisensi MPL 2.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "John Doe",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
